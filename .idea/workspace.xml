@@ -9,9 +9,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f3498c-c7a8-433e-85bb-4c00387d3dab" name="Default" comment="修改本地数据库链接">
+    <list default="true" id="c4f3498c-c7a8-433e-85bb-4c00387d3dab" name="Default" comment="修改配置 3">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmall-front-web/src/main/resources/conf/resource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-front-web/src/main/resources/conf/resource.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -418,10 +421,10 @@
     <property name="SearchEverywhereHistoryKey" value="tbOrderShippingMapper&#9;PSI&#9;JAVA://cn.exrick.manager.service.impl.OrderServiceImpl#tbOrderShippingMapper&#10;setOrderByClause&#9;PSI&#9;JAVA://cn.exrick.manager.pojo.TbItemExample#setOrderByClause&#10;{&#9;null&#9;null&#10;C&#9;FILE&#9;file://D:/桌面/xmall/xmall-manager-web/src/main/java/cn/exrick/controller/ItemController.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../initial" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.23793103" />
+    <property name="project.structure.side.proportion" value="0.30114943" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -1509,13 +1512,13 @@
       <item itemvalue="Maven.xmall-front-web [tomcat7:run]" />
       <item itemvalue="Maven.xmall-manager [tomcat7:run]" />
       <item itemvalue="Maven.xmall-common [install:install]" />
+      <item itemvalue="Maven.xmall-content [tomcat7:run]" />
       <item itemvalue="Tomcat Server.tomcat-manager-web" />
       <item itemvalue="Tomcat Server.tomcat-front-web" />
       <item itemvalue="Tomcat Server.tomcat-sso-service" />
       <item itemvalue="Tomcat Server.tomcat-search-service" />
       <item itemvalue="Tomcat Server.tomcat-content-service" />
       <item itemvalue="Tomcat Server.tomcat-manager-service" />
-      <item itemvalue="Maven.xmall-content [tomcat7:run]" />
     </list>
     <recent_temporary>
       <list>
@@ -1739,7 +1742,8 @@
       <workItem from="1584600766188" duration="912000" />
       <workItem from="1584947299094" duration="792000" />
       <workItem from="1584948121388" duration="5339000" />
-      <workItem from="1585120290399" duration="8606000" />
+      <workItem from="1585120290399" duration="8839000" />
+      <workItem from="1585208359412" duration="4489000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE]v1.1重构首页完成 优化功能 修复BUG">
       <created>1524125534890</created>
@@ -1790,7 +1794,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585129266109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改配置 3">
+      <created>1585132118739</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585132118739</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1860,7 +1871,8 @@
     <MESSAGE value="修改配置 1" />
     <MESSAGE value="修改配置 2" />
     <MESSAGE value="修改本地数据库链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改本地数据库链接" />
+    <MESSAGE value="修改配置 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584603031813">
