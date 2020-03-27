@@ -61,8 +61,8 @@ public class UserController {
     }
 
     @RequestMapping(value = "/user/login",method = RequestMethod.POST)
-    @ApiOperation(value = "用户登录")
-    @SystemControllerLog(description="登录系统")
+    @ApiOperation(value = "用户登录, admin 123456")
+    @SystemControllerLog(description="登录系统, admin 123456")
     public Result<Object> login(String username, String password,
                                 String challenge,String validate,String seccode,
                                 HttpServletRequest request){
