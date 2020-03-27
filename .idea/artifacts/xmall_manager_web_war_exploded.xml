@@ -119,7 +119,7 @@
           <element id="archive" name="xmall-search-interface-1.0-SNAPSHOT.jar">
             <element id="module-output" name="xmall-search-interface" />
           </element>
-          <element id="library" level="project" name="Maven: cn.hutool:hutool-all:4.0.5" />
+          <element id="library" level="project" name="Maven: cn.hutool:hutool-all:5.2.5" />
         </element>
       </element>
       <element id="directory" name="META-INF">

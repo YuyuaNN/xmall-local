@@ -66,7 +66,6 @@
                 /lock-screen = authc
                 /user/logout = authc
                 /user/userInfo = authc
-
                 <!--anon 表示不需要认证以及授权-->
                 <!--authc 表示需要认证 没有登录是不能进行访问的-->
                 <!--perms 表示需要该权限才能访问的页面 /user/* = perms[/*] -->

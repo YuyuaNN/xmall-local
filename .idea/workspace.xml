@@ -5,24 +5,22 @@
   </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="xmall-sso-service:war exploded" />
+      <artifact name="xmall-manager-service:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f3498c-c7a8-433e-85bb-4c00387d3dab" name="Default" comment="修改配置和gbk转化成utf8编码">
+    <list default="true" id="c4f3498c-c7a8-433e-85bb-4c00387d3dab" name="Default" comment="修改配置 5">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_2_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_content_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_content_service_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_front_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_front_web_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_manager_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_manager_service_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_manager_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_manager_web_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_search_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_search_service_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/xmall_sso_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/xmall_sso_service_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_0_5.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generatorSqlmapCustom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/generatorSqlmapCustom/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-content/xmall-content-service/src/main/resources/conf/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-content/xmall-content-service/src/main/resources/conf/db.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xmall-manager-web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/src/main/resources/conf/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-manager/xmall-manager-service/src/main/resources/conf/db.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xmall-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-search/xmall-search-service/src/main/resources/conf/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-search/xmall-search-service/src/main/resources/conf/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/src/main/resources/conf/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xmall-sso/xmall-sso-service/src/main/resources/conf/db.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -430,9 +428,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../initial" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.30114943" />
+    <property name="project.structure.side.proportion" value="0.3689655" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -1527,6 +1525,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Maven.xmall-search-service [tomcat7:run]" />
       <item itemvalue="Tomcat Server.tomcat-manager-web" />
       <item itemvalue="Tomcat Server.tomcat-front-web" />
       <item itemvalue="Tomcat Server.tomcat-sso-service" />
@@ -1534,18 +1533,17 @@
       <item itemvalue="Tomcat Server.tomcat-content-service" />
       <item itemvalue="Tomcat Server.tomcat-manager-service" />
       <item itemvalue="Maven.xmall-manager-service [tomcat7:run]" />
-      <item itemvalue="Maven.xmall-search-service [tomcat7:run]" />
-      <item itemvalue="Maven.xmall-content-service [tomcat7:run]" />
       <item itemvalue="Maven.xmall-sso-service [tomcat7:run]" />
+      <item itemvalue="Maven.xmall-content-service [tomcat7:run]" />
       <item itemvalue="Maven.xmall-manager-web [tomcat7:run]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Maven.xmall-manager-web [tomcat7:run]" />
         <item itemvalue="Maven.xmall-content-service [tomcat7:run]" />
+        <item itemvalue="Maven.xmall-search-service [tomcat7:run]" />
         <item itemvalue="Maven.xmall-sso-service [tomcat7:run]" />
         <item itemvalue="Maven.xmall-manager-service [tomcat7:run]" />
-        <item itemvalue="Maven.xmall-search-service [tomcat7:run]" />
       </list>
     </recent_temporary>
   </component>
@@ -1762,7 +1760,8 @@
       <workItem from="1584947299094" duration="792000" />
       <workItem from="1584948121388" duration="5339000" />
       <workItem from="1585120290399" duration="8839000" />
-      <workItem from="1585208359412" duration="11639000" />
+      <workItem from="1585208359412" duration="11739000" />
+      <workItem from="1585291994485" duration="5188000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE]v1.1重构首页完成 优化功能 修复BUG">
       <created>1524125534890</created>
@@ -1827,7 +1826,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585213052847</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改配置 5">
+      <created>1585221008107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585221008107</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1890,7 +1896,8 @@
     <MESSAGE value="修改本地数据库链接" />
     <MESSAGE value="修改配置 3" />
     <MESSAGE value="修改配置和gbk转化成utf8编码" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置和gbk转化成utf8编码" />
+    <MESSAGE value="修改配置 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584603031813">
